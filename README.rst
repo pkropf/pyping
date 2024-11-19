@@ -50,7 +50,7 @@ Use as a Python lib::
 Exeuctable
 ----------
 
-Run pyinstaller against pyping/__main__.py to generate an executable program.
+Run pyinstaller against pyping/__main__.py to generate an executable program::
 
     % pyinstaller pyping/__main__.py --onefile --name pyping
     42 INFO: PyInstaller: 6.11.1, contrib hooks: 2024.10
